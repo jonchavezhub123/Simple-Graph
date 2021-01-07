@@ -1,13 +1,5 @@
-3/***********************************************************
-CSCI 340 - Assignment 10 - Fall 2020
-
+/**********************************************************
 Programmer: Jonathan Chavez
-
-Z-ID: z1866268
-
-Section: 1
-
-Date Due: December 2, 2020
 
 Purpose: write a C++ program to implement several graph 
 algorithms on simple graphs. These graphs are implemented with 
